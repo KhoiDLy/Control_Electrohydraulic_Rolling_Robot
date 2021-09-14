@@ -1,0 +1,16 @@
+C:\Users\Jason\Desktop\khoi_optitrack_client\x64\Debug\khoi_optitrack_client.exe
+C:\Users\Sarah\Desktop\khoi_optitrack_client\x64\Debug\khoi_optitrack_client.exe
+C:\Users\Sarah\Desktop\khoi_optitrack_client\x64\Debug\khoi_optitrack_client.pdb
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.exe
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.pdb
+F:\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.exe
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code_Frequency_fixed\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.exe
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code_Frequency_fixed\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.pdb
+F:\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code_Frequency_fixed\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.exe
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code_Freq_Key_added\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.exe
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code_Freq_Key_added\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.pdb
+F:\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code_Freq_Key_added\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.exe
+F:\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code_Freq_acceleration_control\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.exe
+F:\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code_Freq_acc_br\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.exe
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code_Freq_acc_br\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.exe
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code_Freq_acc_br\khoi_optitrack_client (1)\x64\Debug\khoi_optitrack_client.pdb

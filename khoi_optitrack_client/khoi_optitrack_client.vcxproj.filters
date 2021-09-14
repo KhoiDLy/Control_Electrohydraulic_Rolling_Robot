@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{37a14fbb-0cad-4f37-882e-753c982aa78d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{137541d5-4488-4346-b649-0e5e46e51aac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="test">
+      <UniqueIdentifier>{a4d2f25b-f525-4612-8f7c-7ffe24c38191}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\data_collector">
+      <UniqueIdentifier>{20d9341e-ebc7-4b06-b595-186c05535c70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\mpc_controller">
+      <UniqueIdentifier>{869f0052-eb95-424d-9556-b260bceb00db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\run_parallel">
+      <UniqueIdentifier>{275e5a3a-ebea-4ed5-8d61-ef2d5d2c296f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\data_collector">
+      <UniqueIdentifier>{e0416782-6c4b-43b8-878a-57c00aae2d8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\mpc_controller">
+      <UniqueIdentifier>{809bdd9a-2604-44fb-a3e8-2358f8b46d2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\run_parallel">
+      <UniqueIdentifier>{ea0e146c-ca42-4130-9d6e-c31834411e85}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="data_collector\include\data_collector\collector.hpp">
+      <Filter>include\data_collector</Filter>
+    </ClInclude>
+    <ClInclude Include="data_collector\include\mpc_controller\greedy_prediction.hpp">
+      <Filter>include\mpc_controller</Filter>
+    </ClInclude>
+    <ClInclude Include="data_collector\include\mpc_controller\hybrid.hpp">
+      <Filter>include\mpc_controller</Filter>
+    </ClInclude>
+    <ClInclude Include="data_collector\include\mpc_controller\mpc.hpp">
+      <Filter>include\mpc_controller</Filter>
+    </ClInclude>
+    <ClInclude Include="data_collector\include\data_collector\natnet_client.hpp">
+      <Filter>include\data_collector</Filter>
+    </ClInclude>
+    <ClInclude Include="data_collector\include\mpc_controller\pso_prediction.hpp">
+      <Filter>include\mpc_controller</Filter>
+    </ClInclude>
+    <ClInclude Include="data_collector\include\run_parallel\run_parallel.hpp">
+      <Filter>include\run_parallel</Filter>
+    </ClInclude>
+    <ClInclude Include="data_collector\include\data_collector\teensy_serial.hpp">
+      <Filter>include\data_collector</Filter>
+    </ClInclude>
+    <ClInclude Include="data_collector\include\logger\logger.hpp" />
+    <ClInclude Include="data_collector\include\data_collector\SerialPort.hpp">
+      <Filter>include\data_collector</Filter>
+    </ClInclude>
+    <ClInclude Include="data_collector\include\data_collector\SerialClass.h">
+      <Filter>include\data_collector</Filter>
+    </ClInclude>
+    <ClInclude Include="data_collector\include\reference\reference.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="data_collector\src\mpc_controller\greedy_prediction.cpp">
+      <Filter>src\mpc_controller</Filter>
+    </ClCompile>
+    <ClCompile Include="data_collector\src\mpc_controller\hybrid.cpp">
+      <Filter>src\mpc_controller</Filter>
+    </ClCompile>
+    <ClCompile Include="data_collector\src\mpc_controller\mpc.cpp">
+      <Filter>src\mpc_controller</Filter>
+    </ClCompile>
+    <ClCompile Include="data_collector\src\data_collector\natnet_client.cpp">
+      <Filter>src\data_collector</Filter>
+    </ClCompile>
+    <ClCompile Include="data_collector\src\mpc_controller\pso_prediction.cpp">
+      <Filter>src\mpc_controller</Filter>
+    </ClCompile>
+    <ClCompile Include="data_collector\src\run_parallel\run_parallel.cpp">
+      <Filter>src\run_parallel</Filter>
+    </ClCompile>
+    <ClCompile Include="data_collector\src\data_collector\teensy_serial.cpp">
+      <Filter>src\data_collector</Filter>
+    </ClCompile>
+    <ClCompile Include="data_collector\test\test.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="data_collector\src\logger\logger.cpp" />
+    <ClCompile Include="data_collector\src\data_collector\SerialPort.cpp">
+      <Filter>src\data_collector</Filter>
+    </ClCompile>
+    <ClCompile Include="data_collector\src\data_collector\SerialClass.cpp">
+      <Filter>src\data_collector</Filter>
+    </ClCompile>
+    <ClCompile Include="data_collector\src\reference\reference.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

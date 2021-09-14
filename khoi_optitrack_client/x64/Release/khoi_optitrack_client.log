@@ -1,0 +1,16 @@
+﻿  run_parallel.cpp
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code\khoi_optitrack_client (1)\data_collector\src\run_parallel\run_parallel.cpp(90,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code\khoi_optitrack_client (1)\data_collector\src\run_parallel\run_parallel.cpp(98,46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code\khoi_optitrack_client (1)\data_collector\src\run_parallel\run_parallel.cpp(105,26): warning C4101: 'e': unreferenced local variable
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code\khoi_optitrack_client (1)\data_collector\src\run_parallel\run_parallel.cpp(161,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code\khoi_optitrack_client (1)\data_collector\src\run_parallel\run_parallel.cpp(233,118): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Generating code
+  1 of 989 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  khoi_optitrack_client.vcxproj -> C:\Users\Khoi's PC\Google Drive (khly1794@colorado.edu)\HASEL Wheel Project\11. RealTimeImplementation\Sarahs Code\khoi_optitrack_client (1)\x64\Release\khoi_optitrack_client.exe

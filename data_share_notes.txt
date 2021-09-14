@@ -1,0 +1,27 @@
+this->shared_data_map keys:
+#################################
+"arm" : vector<float>
+'pivot' : vector<float>
+'teensy_read' : 
+'teensy_write' :
+'write_flag' : {-1} --> if not
+	       {1}
+
+'read_flag' : {-1} --> if not
+	      {1} --> if yes
+####################################
+// you got a control input you want to send to teensy
+if (this->shared_data_map["write_flag"] < 0) --> this means write_flag == 1
+{
+	this->shared_data_map["write_flag"] = 1;
+	std::vector < float> teensy_data; 
+	this->write_common_dictionary("teensy_write", teensy_data);
+}
+
+
+SARAH TODOs:
+- Make sure the Teensy delay doesn't happen at different rates
+- Write an exception for when you need to reset the Teensy
+- Start testing ParallelRun objects
+- Write data_collector_callback()
+
